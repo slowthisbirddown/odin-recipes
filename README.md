@@ -1,1 +1,1 @@
-# odin-recipes
+A short list of recipes to try!
